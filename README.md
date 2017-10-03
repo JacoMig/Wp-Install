@@ -14,7 +14,9 @@
 
 ### Wordpress Paket
 * Wordpress unterladen https://de.wordpress.org/
-* Öffne die Datei wp-config-sample.php mit einem Texteditor zB. Notepad++ unterladen https://notepad-plus-plus.org/download/v7.5.1.html
+* Texteditor wie Notepad++ unterladen https://notepad-plus-plus.org/download/v7.5.1.html und intsallieren
+* Unpaken die unteraldene Datei von Wordpress
+* Öffne das ungepacktene Datei und suche nach wp-config-sample.php und mit dem Texteditor öffnen 
 * Füge die erforderlichen Datenbankdaten und die Sicherheitsschlüssel (kleine, große Buchstaben beachten!!!) ein.
   * define('DB_NAME', 'DATENBANKNAME'); // Der Name der Datenbank, die du benutzt.
   * define('DB_USER', 'BENUTZERNAME'); // Dein MySQL Datenbank Benutzernamen
