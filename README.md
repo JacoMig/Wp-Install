@@ -10,13 +10,13 @@
 <strong>Datenbank erforderlich!</strong><br>
 * Webbrowser Öffnen und die Seite localhost/phpmyadmin aufrufen und sich einloggen<br>
 <strong>Neue Datenbank anlegen</strong><br>
-* Auf C://xampp/htdocs einen Ordner erstellen mit einem gewünschten Name (ZB. myWebsite)<br>
+* Auf C://xampp/htdocs Alles was drin steht soll gelöscht werden und einen Ordner erstellen mit einem gewünschten Name (ZB. myWebsite)<br>
 
 ### Wordpress Paket
 * Wordpress unterladen https://de.wordpress.org/
 * Texteditor wie Notepad++ unterladen https://notepad-plus-plus.org/download/v7.5.1.html und intsallieren
-* Unpaken die unteraldene Datei von Wordpress
-* Öffne das ungepacktene Datei und suche nach wp-config-sample.php und mit dem Texteditor öffnen 
+* Entpacken die unteraldene Datei von Wordpress
+* Öffne das entpackene Paket und suche nach wp-config-sample.php und mit dem Texteditor (Notepad++) öffnen 
 * Füge die erforderlichen Datenbankdaten und die Sicherheitsschlüssel (kleine, große Buchstaben beachten!!!) ein.
   * define('DB_NAME', 'DATENBANKNAME'); // Der Name der Datenbank, die du benutzt.
   * define('DB_USER', 'BENUTZERNAME'); // Dein MySQL Datenbank Benutzernamen
