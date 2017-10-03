@@ -1,6 +1,5 @@
 # Wp-Install
-### Um WordPress zu installieren, wird ein Webspace benötigt,<br>
-der die folgenden Mindestvoraussetzungen erfüllt:<br>
+### Um WordPress zu installieren, wird ein Webspace benötigt, der die folgenden Mindestvoraussetzungen erfüllt:<br>
 * PHP-Version 5.2.4 oder höher
 * MySQL-Version 5.0 oder höher
 * Apache Server
@@ -15,7 +14,7 @@ der die folgenden Mindestvoraussetzungen erfüllt:<br>
 
 ### Wordpress Paket
 * Wordpress unterladen https://de.wordpress.org/
-* Öfne die Datei wp-config-sample.php mit einem Texteditor zB. Notepad++ unterladen https://notepad-plus-plus.org/download/v7.5.1.html
+* Öffne die Datei wp-config-sample.php mit einem Texteditor zB. Notepad++ unterladen https://notepad-plus-plus.org/download/v7.5.1.html
 * Füge die erforderlichen Datenbankdaten und die Sicherheitsschlüssel (kleine, große Buchstaben beachten!!!) ein.
   * define('DB_NAME', 'DATENBANKNAME'); // Der Name der Datenbank, die du benutzt.
   * define('DB_USER', 'BENUTZERNAME'); // Dein MySQL Datenbank Benutzernamen
